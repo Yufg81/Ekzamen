@@ -1,0 +1,6 @@
+C:\Users\Администратор\source\repos\Ekz\EkzLibrary\bin\Debug\EkzLibrary.dll
+C:\Users\Администратор\source\repos\Ekz\EkzLibrary\bin\Debug\EkzLibrary.pdb
+C:\Users\Администратор\source\repos\Ekz\EkzLibrary\obj\Debug\EkzLibrary.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Ekz\EkzLibrary\obj\Debug\EkzLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Ekz\EkzLibrary\obj\Debug\EkzLibrary.dll
+C:\Users\Администратор\source\repos\Ekz\EkzLibrary\obj\Debug\EkzLibrary.pdb

@@ -1,0 +1,16 @@
+﻿<Window x:Class="Ekz.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ekz"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="47" TextWrapping="Wrap" VerticalAlignment="Top" Width="792" Text="Выучить общевоинский устав" FontSize="25" />
+        <TextBox HorizontalAlignment="Left" Height="47" TextWrapping="Wrap" VerticalAlignment="Top" Width="792" Text="Научиться маршировать" FontSize="25" Margin="0,47,0,0" />
+        <TextBox HorizontalAlignment="Left" Height="47" TextWrapping="Wrap" VerticalAlignment="Top" Width="792" Text="Морально подготовиться к армии" FontSize="25" Margin="0,94,0,0" />
+        <TextBox HorizontalAlignment="Left" Height="47" TextWrapping="Wrap" VerticalAlignment="Top" Width="792" Text="Побриться налысо" FontSize="25" Margin="0,141,0,0" />
+
+    </Grid>
+</Window>
